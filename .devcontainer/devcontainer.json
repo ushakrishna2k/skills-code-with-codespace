@@ -1,0 +1,4 @@
+{
+    "name" : "Basic Dev environment",
+    "image" : "mcr.microsoft.com/devcontainers/base:debian"
+}
